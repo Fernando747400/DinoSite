@@ -1,8 +1,0 @@
-{
-  "label": "Películas",
-  "position": 3,
-  "link": {
-    "type": "generated-index",
-    "description": "Un listado de películas recomendadas"
-  }
-}

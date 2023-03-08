@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkf_747_site=self.webpackChunkf_747_site||[]).push([[7712],{7991:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/F747Site/blog/tags/hola","allTagsPath":"/F747Site/blog/tags","count":1}')}}]);

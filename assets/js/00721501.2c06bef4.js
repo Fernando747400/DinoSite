@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkf_747_site=self.webpackChunkf_747_site||[]).push([[7134],{746:e=>{e.exports=JSON.parse('{"permalink":"/F747Site/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkf_747_site=self.webpackChunkf_747_site||[]).push([[6662],{2282:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/F747Site/blog/tags/facebook","allTagsPath":"/F747Site/blog/tags","count":1}')}}]);

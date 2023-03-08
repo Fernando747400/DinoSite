@@ -1,8 +1,0 @@
-{
-    "label": "Juegos",
-    "position": 5,
-    "link": {
-      "type": "generated-index",
-      "description": "Un listado de juegos recomendados"
-    }
-  }
