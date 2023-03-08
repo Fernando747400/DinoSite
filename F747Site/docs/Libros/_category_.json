@@ -1,0 +1,8 @@
+{
+    "label": "Libros",
+    "position": 4,
+    "link": {
+      "type": "generated-index",
+      "description": "Un listado de libros recomendados"
+    }
+  }
