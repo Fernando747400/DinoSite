@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Dr House #
 
-![DrHouse](img/DrHouse.jpg)
+![DrHouse](img/DrHouse.jpeg)
 
 ----
 
